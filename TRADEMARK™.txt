@@ -1,16 +1,16 @@
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
+╔═════════════════════════════════════════════════════════════════════════════╗
+║                                                                             ║
 ║           NYX™ MASTER TRADEMARK & BRAND PROTECTION POLICY                   ║
-║                                                                              ║
+║                                                                             ║
 ║                         Version 1.0 — March 2026                            ║
-║                                                                              ║
-║   Owner   : Surya Sekhar Roy                                                 ║
-║   Website : https://nyxprogramminglanguage.wuaze.com                        ║
+║                                                                             ║
+║   Owner   : Surya Sekhar Roy                                                ║
+║   Website : https://nyxprogramminglanguage.github.io                        ║
 ║   GitHub  : https://github.com/NyxProgrammingLanguage/                      ║
-║             Nyx-Programming-Language                                         ║
+║             Nyx-Programming-Language                                        ║
 ║   Contact : nyxprogramminglanguage@gmail.com                                ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+║                                                                             ║
+╚═════════════════════════════════════════════════════════════════════════════╝
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ◆ PLAIN ENGLISH SUMMARY (For Developers — Read This First)
@@ -72,7 +72,7 @@ through prior and continuous use in commerce, including:
 Evidence of use includes:
   • Public release of the Nyx Programming Language
   • Operation of the official website at
-    https://nyxprogramminglanguage.wuaze.com
+    https://nyxprogramminglanguage.github.io
   • Maintenance of the official GitHub repository
   • Distribution to 144+ users across multiple countries
   • Publication of technical documentation and content
@@ -489,7 +489,7 @@ attribution statement should be included where practical:
 
   Standard form:
     "Nyx™ is a trademark of Surya Sekhar Roy.
-     https://nyxprogramminglanguage.wuaze.com"
+     https://nyxprogramminglanguage.github.io"
 
   Short form (for space-limited contexts):
     "Nyx™ — Surya Sekhar Roy"
@@ -664,7 +664,7 @@ Only the following domains are official NYX domains authorized
 by Surya Sekhar Roy:
 
   Primary:
-    https://nyxprogramminglanguage.wuaze.com
+    https://nyxprogramminglanguage.github.io
 
   GitHub:
     https://github.com/NyxProgrammingLanguage/Nyx-Programming-Language
@@ -957,7 +957,7 @@ SECTION 12.4 — CONTACT FOR ALL TRADEMARK MATTERS
   Subject:                    [NYX TRADEMARK QUERY]
 
   Official Website:
-    https://nyxprogramminglanguage.wuaze.com
+    https://nyxprogramminglanguage.github.io
 
   Official GitHub:
     https://github.com/NyxProgrammingLanguage/Nyx-Programming-Language
