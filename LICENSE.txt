@@ -4,7 +4,7 @@
 ║                                                                        ║
 ║   Copyright (c) 2026 Surya Sekhar Roy. All Rights Reserved.            ║
 ║   Website : https://nyxprogramminglanguage.github.io                   ║
-║   Contact : nyxprogramminglanguage@gmail.com                                          ║
+║   Contact : nyxprogramminglanguage@gmail.com                           ║
 ╚════════════════════════════════════════════════════════════════════════╝
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
