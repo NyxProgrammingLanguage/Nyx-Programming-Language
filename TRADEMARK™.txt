@@ -143,10 +143,10 @@ NYX™ master mark protects:
   CATEGORY 5 — FUTURE TECHNOLOGIES
   ┌─────────────────────────────────────────────────────────────────┐
   │ • Any technology, module, product, service, or platform         │
-  │   bearing the NYX name or any name derived from NYX™,          │
-  │   developed by Surya Sekhar Roy under the NYX ecosystem,       │
+  │   bearing the NYX name or any name derived from NYX™,           │
+  │   developed by Surya Sekhar Roy under the NYX ecosystem,        │
   │   is automatically and immediately covered under the NYX™       │
-  │   master trademark from the moment of its creation or          │
+  │   master trademark from the moment of its creation or           │
   │   first public use.                                             │
   └─────────────────────────────────────────────────────────────────┘
 
@@ -209,47 +209,47 @@ SECTION 3.1 — THREE-TIER BRAND STRUCTURE
 The NYX™ ecosystem follows a three-tier brand architecture:
 
   ┌─────────────────────────────────────────────────────────────────┐
-  │  TIER 1 — MASTER BRAND                                         │
+  │  TIER 1 — MASTER BRAND                                          │
   │                                                                 │
-  │  NYX™                                                          │
+  │  NYX™                                                           │
   │                                                                 │
-  │  The primary, overarching brand identity. Used when referring  │
-  │  to the ecosystem as a whole. Owned exclusively by             │
-  │  Surya Sekhar Roy. No third party may use NYX™ as a           │
+  │  The primary, overarching brand identity. Used when referring   │
+  │  to the ecosystem as a whole. Owned exclusively by              │
+  │  Surya Sekhar Roy. No third party may use NYX™ as a             │
   │  standalone brand for competing products.                       │
   └─────────────────────────────────────────────────────────────────┘
                               │
                               ▼
   ┌─────────────────────────────────────────────────────────────────┐
-  │  TIER 2 — OFFICIAL SUB-BRANDS                                  │
+  │  TIER 2 — OFFICIAL SUB-BRANDS                                   │
   │                                                                 │
-  │  NYX + [descriptor] = Official sub-brand                       │
+  │  NYX + [descriptor] = Official sub-brand                        │
   │                                                                 │
   │  Examples:                                                      │
-  │    NyxVM™     NyxUI™     NyxWeb™    NyxCLI™                   │
-  │    NyxBIOS™   NyxJIT™    NyxCloud™  NyxSDK™                   │
+  │    NyxVM™     NyxUI™     NyxWeb™    NyxCLI™                     │
+  │    NyxBIOS™   NyxJIT™    NyxCloud™  NyxSDK™                     │
   │                                                                 │
-  │  These are official components of the NYX ecosystem.           │
-  │  Only Surya Sekhar Roy may create official sub-brands.         │
-  │  Sub-brands derive protection from the NYX™ master mark        │
+  │  These are official components of the NYX ecosystem.            │
+  │  Only Surya Sekhar Roy may create official sub-brands.          │
+  │  Sub-brands derive protection from the NYX™ master mark         │
   │  without requiring individual registration.                     │
   └─────────────────────────────────────────────────────────────────┘
                               │
                               ▼
   ┌─────────────────────────────────────────────────────────────────┐
-  │  TIER 3 — COMMUNITY ECOSYSTEM IDENTIFIERS                      │
+  │  TIER 3 — COMMUNITY ECOSYSTEM IDENTIFIERS                       │
   │                                                                 │
-  │  nyx-[descriptor] = Community project naming convention        │
+  │  nyx-[descriptor] = Community project naming convention         │
   │                                                                 │
   │  Examples:                                                      │
-  │    nyx-redis-driver      nyx-postgres-client                   │
-  │    nyx-vscode-extension  nyx-docker-plugin                     │
-  │    awesome-nyx           learn-nyx                             │
+  │    nyx-redis-driver      nyx-postgres-client                    │
+  │    nyx-vscode-extension  nyx-docker-plugin                      │
+  │    awesome-nyx           learn-nyx                              │
   │                                                                 │
-  │  These are third-party community projects. They may use        │
-  │  "nyx-" as a prefix to indicate compatibility with NYX™,       │
-  │  provided they follow the community naming rules in            │
-  │  Section 6.3 and are clearly identified as unofficial.         │
+  │  These are third-party community projects. They may use         │
+  │  "nyx-" as a prefix to indicate compatibility with NYX™,        │
+  │  provided they follow the community naming rules in             │
+  │  Section 6.3 and are clearly identified as unofficial.          │
   └─────────────────────────────────────────────────────────────────┘
 
 SECTION 3.2 — SUB-BRAND RULES
@@ -912,7 +912,7 @@ SECTION 11.2 — COMMUNITY-FRIENDLY QUICK REFERENCE
   │  ✗  Fake official Nyx™ websites or releases                    │
   │  ✗  Domain squatting on Nyx-related domains                    │
   │  ✗  Registering "NYX" as your own trademark                    │
-  └─────────────────────────────────────────────────────────────────┘
+  └────────────────────────────────────────────────────────────────┘
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 PART XII — GENERAL PROVISIONS
