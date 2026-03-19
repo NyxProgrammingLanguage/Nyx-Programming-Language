@@ -19,21 +19,21 @@
   This document is about protecting the name "Nyx" and everything
   built under it. Here is what it means for you in plain language:
 
-  ✅ YOU CAN:
+  YOU CAN:
      • Say your project "runs on Nyx™" or is "built with Nyx™"
      • Write tutorials, blog posts, and courses about Nyx™
      • Build plugins, libraries, and tools that work with Nyx™
      • Name your community tool "nyx-something" (e.g., nyx-redis)
      • Use Nyx™ in your company if you meet the license terms
 
-  ❌ YOU CANNOT:
+  YOU CANNOT:
      • Name a competing language, runtime, or platform "Nyx anything"
      • Use the Nyx name or logo in a way that looks official
      • Register domain names designed to look like official Nyx sites
      • Imply that Surya Sekhar Roy endorses your product without
        written permission
 
-  🤝 THE SPIRIT OF THIS POLICY:
+  THE SPIRIT OF THIS POLICY:
      Nyx™ is built to grow. This policy protects the name and
      identity of the platform — not to restrict the community,
      but to ensure that the Nyx brand always means one thing:
